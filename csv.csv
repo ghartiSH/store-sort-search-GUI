@@ -1,0 +1,14 @@
+Football,101,Jersey,Original,Nike,M,High,5000,Professionals
+Football,102,Boot,High copy,Puma,8,Medium,3000,Manufacturers
+Football,103,Ball,High copy,Adidas,5,Medium,3500,Professionals
+Cricket,104,Bat,Original,SG,6,High,4500,Manufacturers
+Cricket,105,Ball,High copy,Kookaburra,M,Low,500,None
+Cricket,106,Jersey,Duplicate,Sky,L,Low,800,Not Recommended
+Basketball,107,Shoes,Original,Nivia,10,High,10000,Professionals
+Basketball,108,Ball,High copy,Spalding,7,Medium,2500,Manufacturers
+Basketball,110,Jersey,Duplicate,DRH,S,Low,900,Not Recommended
+Table Tennis,111,Board,Original,Stiga,M,High,25000,Manufacturers
+Table Tennis,112,Bat,High copy,Killerspin,M,Low,1100,None
+Table Tennis,113,Net,Duplicate,Butterfly,S,Low,650,Not Recommended
+Volleyball,114,Ball,High copy,Wilson,4,Medium,3000,Professionals
+Volleyball,115,Jersey,Duplicate,Abibas,L,Low,850,Not Recommended
